@@ -5,8 +5,6 @@ export class AppService {
  
   constructor(){}
 
-
-
   getHello(): string{
     console.log("hello")
     console.log("my first testing")
@@ -14,7 +12,13 @@ export class AppService {
     const name = "Rohan"
 =======
     console.log("this is new feature")
+<<<<<<< HEAD
+    const a = 40
+=======
+>>>>>>> main
 >>>>>>> main
     return 'Hello World!';
   }
+
+
 }
