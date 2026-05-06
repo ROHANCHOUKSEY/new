@@ -9,7 +9,7 @@ export class AppService {
     console.log("hello")
     console.log("my first testing")
     console.log("this is new feature")
-    const a =20
+    const a = 40
     return 'Hello World!';
   }
 
