@@ -5,12 +5,13 @@ export class AppService {
  
   constructor(){}
 
-
-
   getHello(): string{
     console.log("hello")
     console.log("my first testing")
     console.log("this is new feature")
+    const a =20
     return 'Hello World!';
   }
+
+
 }
