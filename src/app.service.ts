@@ -36,6 +36,11 @@ export class AppService {
 
     console.log(mult);
 
+    const userDetails = {
+        name: "Rohan",
+        age: 23
+    }
+
     return 'Hello World!';
   }
 
