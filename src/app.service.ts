@@ -21,6 +21,13 @@ export class AppService {
 
     console.log(abc(2, 4, 5))
 
+    function div(a, b){
+        return a / b;
+    }
+
+
+    console.log(div(2, 4))
+
     return 'Hello World!';
   }
 
