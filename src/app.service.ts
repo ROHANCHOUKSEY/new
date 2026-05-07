@@ -8,15 +8,13 @@ export class AppService {
   getHello(): string{
     console.log("hello")
     console.log("my first testing")
-<<<<<<< HEAD
     const name = "Rohan"
-=======
     console.log("this is new feature")
-<<<<<<< HEAD
     const a = 40
-=======
->>>>>>> main
->>>>>>> main
+    function sub(a , b){
+        console.log(a - b);
+    }
+    sub(2, 4);
     return 'Hello World!';
   }
 
