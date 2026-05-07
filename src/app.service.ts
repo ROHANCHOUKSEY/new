@@ -16,8 +16,11 @@ export class AppService {
     }
     sub(2, 4);
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     function abc(a, b, c){
         return a + b + c
@@ -26,6 +29,11 @@ export class AppService {
     console.log(abc(2, 4, 5))
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 =======
 =======
 >>>>>>> Stashed changes
