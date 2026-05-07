@@ -11,10 +11,13 @@ export class AppService {
     const name = "Rohan"
     console.log("this is new feature")
     const a = 40
+
+
     function sub(a , b){
         console.log(a - b);
     }
     sub(2, 4);
+
     function abc(a, b, c){
         return a + b + c
     }
@@ -27,6 +30,11 @@ export class AppService {
 
 
     console.log(div(2, 4))
+    function mult(a, b, c){
+        return a * b * c;
+    }
+
+    console.log(mult);
 
     return 'Hello World!';
   }
