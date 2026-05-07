@@ -15,12 +15,21 @@ export class AppService {
         console.log(a - b);
     }
     sub(2, 4);
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
     function abc(a, b, c){
         return a + b + c
     }
 
     console.log(abc(2, 4, 5))
 
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     return 'Hello World!';
   }
 
