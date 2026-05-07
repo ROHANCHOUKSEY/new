@@ -11,33 +11,25 @@ export class AppService {
     const name = "Rohan"
     console.log("this is new feature")
     const a = 40
+
+
     function sub(a , b){
         console.log(a - b);
     }
     sub(2, 4);
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
     function abc(a, b, c){
         return a + b + c
     }
 
     console.log(abc(2, 4, 5))
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-=======
-=======
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+    function mult(a, b, c){
+        return a * b * c;
+    }
+
+    console.log(mult);
+
     return 'Hello World!';
   }
 
